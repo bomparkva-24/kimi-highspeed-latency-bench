@@ -9,7 +9,7 @@ This benchmark measures:
 - Estimated token cost when usage is available
 - Median latency across repeated runs
 
-[View Kimi K3.1 Pro on CometAPI](https://www.cometapi.com/models/moonshotai/kimi-k3-1-pro/?utm_source=medium&utm_medium=distribution&utm_campaign=bom&utm_content=kimi-k3-1-pro)
+[View Kimi K3.1 Pro on CometAPI](https://www.cometapi.com/models/moonshotai/kimi-k3-1-pro/?utm_source=github&utm_medium=distribution&utm_campaign=bom&utm_content=kimi-k3-1-pro)
 
 ## Background
 
@@ -305,6 +305,6 @@ Choose based on successful task completion, quality, latency, and actual billing
 
 ## Links
 
-- [Kimi K3.1 Pro model page and pricing](https://www.cometapi.com/models/moonshotai/kimi-k3-1-pro/?utm_source=medium&utm_medium=distribution&utm_campaign=bom&utm_content=kimi-k3-1-pro)
+- [Kimi K3.1 Pro model page and pricing](https://www.cometapi.com/models/moonshotai/kimi-k3-1-pro/?utm_source=github&utm_medium=distribution&utm_campaign=bom&utm_content=kimi-k3-1-pro)
 - [CometAPI documentation](https://apidoc.cometapi.com)
 ````
